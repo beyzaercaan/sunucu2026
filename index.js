@@ -1,0 +1,1 @@
+console.log("sarı kablo mu kırmızı kablo mu")
